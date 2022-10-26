@@ -1,24 +1,24 @@
-var func1 = function soma (a, b) {
+function soma (a, b) {
     return a + b;
 }
 
-var func2 = function sub (a, b) {
+function sub (a, b) {
     return a - b;
 }
 
-var func3 = function multip (a, b) {
+function multip (a, b) {
     return a * b;
 }
 
-var func4 = function div (a, b) {
+function div (a, b) {
     return a / b;
 }
 
-var func5 = function piso (a) {
+function piso (a) {
     return Math.floor(a);
 }
 
-var fun6 = function teto (a) {
+function teto (a) {
     return Math.ceil(a);
 }
 
