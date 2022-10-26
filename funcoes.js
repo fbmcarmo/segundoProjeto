@@ -14,11 +14,11 @@ var func4 = function div (a, b) {
     return a / b;
 }
 
-var func5 = function piso (a, b) {
-    return 
+var func5 = function piso (a) {
+    return Math.floor(a);
 }
 
-var fun6 = function teto (a, b) {
-    return
+var fun6 = function teto (a) {
+    return Math.ceil(a);
 }
 
